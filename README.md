@@ -9,6 +9,7 @@ Este repositório contém materiais, projetos e anotações relacionadas ao estu
 - **Machine Learning**: Implementações de modelos de aprendizado de máquina
 - **Estatística**: Conceitos e aplicações em Ciência de Dados
 
+
 ## Tecnologias Utilizadas
 
 - Python 
@@ -16,7 +17,7 @@ Este repositório contém materiais, projetos e anotações relacionadas ao estu
 - NumPy 
 - Matplotlib & Seaborn
 - Scikit-learn 
-- TensorFlow / PyTorch (para deep learning)
+- TensorFlow / PyTorch
 
 ## Contribuições
 
